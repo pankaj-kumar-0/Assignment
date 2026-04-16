@@ -43,4 +43,4 @@ The seed data is stored in `src/data/reportedMessages.json` and includes more th
 
 ## Hosting
 
-This project can be deployed to Vercel, Netlify, GitHub Pages, or any static hosting provider that supports Vite builds.
+This project is deployed on Netlify
